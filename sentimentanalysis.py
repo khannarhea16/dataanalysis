@@ -3,6 +3,7 @@ import requests
 from textblob import TextBlob
 
 # Bearer token from twitter developer account
+# Setup Twitter developer account - https://developer.twitter.com/en/portal/dashboard
 bearer = ""
 
 def connect_to_twitter():
